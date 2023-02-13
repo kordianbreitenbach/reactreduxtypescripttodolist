@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactreduxtypescripttodolist/static/css/main.c554cf59.css",
+    "main.js": "/reactreduxtypescripttodolist/static/js/main.8ab7a007.js",
+    "index.html": "/reactreduxtypescripttodolist/index.html",
+    "main.c554cf59.css.map": "/reactreduxtypescripttodolist/static/css/main.c554cf59.css.map",
+    "main.8ab7a007.js.map": "/reactreduxtypescripttodolist/static/js/main.8ab7a007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c554cf59.css",
+    "static/js/main.8ab7a007.js"
+  ]
+}
